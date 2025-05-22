@@ -1,0 +1,205 @@
+Here are some multiple-choice questions (MCQs) related to the syllabus you provided. These questions cover various topics, including computer hardware, operating systems, command line tools, shell scripting, server software, networking protocols, and virtualization.
+
+### MCQs
+
+#### 1. Which of the following is considered a peripheral device?
+A) CPU  
+B) RAM  
+C) Printer  
+D) Motherboard  
+
+**Answer:** C) Printer
+
+---
+
+#### 2. What is the primary function of an operating system?
+A) To manage hardware resources  
+B) To provide internet access  
+C) To run applications  
+D) To store data  
+
+**Answer:** A) To manage hardware resources
+
+---
+
+#### 3. Which file system is commonly used in Linux?
+A) NTFS  
+B) FAT32  
+C) ext4  
+D) HFS+  
+
+**Answer:** C) ext4
+
+---
+
+#### 4. What command is used to change the current directory in a command line environment?
+A) ls  
+B) cd  
+C) pwd  
+D) mkdir  
+
+**Answer:** B) cd
+
+---
+
+#### 5. Which command would you use to create a new directory?
+A) touch  
+B) mkdir  
+C) newdir  
+D) create  
+
+**Answer:** B) mkdir
+
+---
+
+#### 6. What does the `ls -l` command do?
+A) Lists files in a directory with details  
+B) Lists only hidden files  
+C) Lists files in reverse order  
+D) Lists files in a tree structure  
+
+**Answer:** A) Lists files in a directory with details
+
+---
+
+#### 7. Which command is used to display the contents of a file page by page?
+A) cat  
+B) more  
+C) less  
+D) head  
+
+**Answer:** B) more
+
+---
+
+#### 8. What is the purpose of the `chmod` command?
+A) To change the file owner  
+B) To modify file permissions  
+C) To create a new user  
+D) To delete files  
+
+**Answer:** B) To modify file permissions
+
+---
+
+#### 9. Which command is used to search for a specific pattern in a file?
+A) find  
+B) grep  
+C) search  
+D) locate  
+
+**Answer:** B) grep
+
+---
+
+#### 10. What does the `tar -cvf archive.tar folder/` command do?
+A) Extracts files from an archive  
+B) Creates an archive of the specified folder  
+C) Lists the contents of an archive  
+D) Deletes the specified folder  
+
+**Answer:** B) Creates an archive of the specified folder
+
+---
+
+#### 11. Which command is used to display real-time system processes?
+A) ps  
+B) top  
+C) df  
+D) free  
+
+**Answer:** B) top
+
+---
+
+#### 12. What is the purpose of the `useradd` command?
+A) To delete a user account  
+B) To modify an existing user account  
+C) To create a new user account  
+D) To change a user's password  
+
+**Answer:** C) To create a new user account
+
+---
+
+#### 13. Which protocol is used for secure file transfer?
+A) FTP  
+B) HTTP  
+C) SCP  
+D) SMTP  
+
+**Answer:** C) SCP
+
+---
+
+#### 14. What does the `ifconfig` command do?
+A) Configures network interfaces  
+B) Displays disk usage  
+C) Manages user accounts  
+D) Lists running processes  
+
+**Answer:** A) Configures network interfaces
+
+---
+
+#### 15. Which of the following is a benefit of using virtualization?
+A) Increased hardware costs  
+B) Improved resource utilization  
+C) Reduced flexibility  
+D) Increased physical space requirements  
+
+**Answer:** B) Improved resource utilization
+
+---
+
+#### 16. What is the purpose of a firewall?
+A) To manage user accounts  
+B) To protect a network from unauthorized access  
+C) To monitor system performance  
+D) To create backups  
+
+**Answer:** B) To protect a network from unauthorized access
+
+---
+
+#### 17. Which command is used to append output to a file?
+A) >  
+B) >>  
+C) |  
+D) <  
+
+**Answer:** B) >>
+
+---
+
+#### 18. What does the `ssh-keygen` command do?
+A) Connects to a remote server  
+B) Generates SSH keys for secure authentication  
+C) Copies SSH keys to a remote server  
+D) Changes the password for a user  
+
+**Answer:** B) Generates SSH keys for secure authentication
+
+---
+
+#### 19. Which of the following is a common web server software?
+A) MySQL  
+B) Apache  
+C) FTP  
+D) DHCP  
+
+**Answer:** B) Apache
+
+---
+
+#### 20. What is the main difference between IPv4 and IPv6?
+A) IPv4 uses 128-bit addresses, while IPv6 uses 32-bit addresses  
+B) IPv4 is faster than IPv6  
+C) IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses  
+D) IPv4 is more secure than IPv6  
+
+**Answer:** C) IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses
+
+---
+
+These MCQs cover a range of topics from your syllabus and can be useful for preparing for a viva or exam.
